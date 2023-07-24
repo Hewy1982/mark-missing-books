@@ -12,7 +12,7 @@
     <p>A dark and suspenseful tale of a smuggler who is saved by the power of Christ.</p>
   </header>
   <main>
-    <img src="smuggler.jpg" alt="A picture of a smuggler with a Christian cross in the background">
+    <img src="images/front.jpg" alt="A picture of a smuggler with a  cross  the background">
     <p>
       This book is a gripping story of a smuggler who is caught in the middle of a drug cartel war. He is forced to make a choice: continue his life of crime or turn to Christ for salvation.
     </p>
